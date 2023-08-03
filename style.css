@@ -1354,14 +1354,14 @@ html {
     .but_mobile-left {
         position: absolute;
         width: 52px;
-        margin-top: 252px;
+        margin-top: 80px;
         margin-left: 42px; 
     }
 
     .but_mobile-right {
         position: absolute;
         width: 52px;
-        margin-top: 252px;
+        margin-top: 80px;
         margin-left: 175px
     }
 
