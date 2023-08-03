@@ -1,12 +1,12 @@
 @font-face {
     font-family: 'Arial';
-    src: url(/danyn7-JSFE2023Q1/shelter/assets/fonts/arial/arial-regular.ttf);
+    src: url(assets/fonts/arial/arial-regular.ttf);
 }
 
 
 @font-face {
     font-family: 'Georgia';
-    src: url(/danyn7-JSFE2023Q1/shelter/assets/fonts/georgia/georgia-regular.ttf);
+    src: url(assets/fonts/georgia/georgia-regular.ttf);
 }
 
 
@@ -20,7 +20,7 @@
 
 .backgroundup {
     display: flex;
-    background: url(/danyn7-JSFE2023Q1/shelter/assets/img/start-screen-background.jpg), radial-gradient(100% 215.42% at 0% 0%, #5B483A 0%, #262425 100%);
+    background: url(assets/img/start-screen-background.jpg), radial-gradient(100% 215.42% at 0% 0%, #5B483A 0%, #262425 100%);
     align-items: center;
     flex-direction: column;
     height: 23.92%;
@@ -597,7 +597,7 @@ max-width: 100%;
     width: 100%;
     height: 9.22%;
     display: flex;
-    background: url(/danyn7-JSFE2023Q1/shelter/assets/img/footer-background.jpg), radial-gradient(100% 215.42% at 0% 0%, #5B483A 0%, #262425 100%);
+    background: url(assets/img/footer-background.jpg), radial-gradient(100% 215.42% at 0% 0%, #5B483A 0%, #262425 100%);
     justify-content: center;
 }
 
@@ -902,7 +902,7 @@ html {
 
    .backgroundup {
     height: 22.02%;
-    background: url(/danyn7-JSFE2023Q1/shelter/assets/img/start-screen-background768.jpg), radial-gradient(100% 215.42% at 0% 0%, #5B483A 0%, #262425 100%);
+    background: url(assets/img/start-screen-background768.jpg), radial-gradient(100% 215.42% at 0% 0%, #5B483A 0%, #262425 100%);
    }
    
    .header {
@@ -1040,7 +1040,7 @@ html {
 
    .footer {
     height: 12.079%;
-    background: url(/danyn7-JSFE2023Q1/shelter/assets/img/footer-background768.jpg), radial-gradient(100% 215.42% at 0% 0%, #5B483A 0%, #262425 100%);
+    background: url(assets/img/footer-background768.jpg), radial-gradient(100% 215.42% at 0% 0%, #5B483A 0%, #262425 100%);
    }
 
    body {
@@ -1487,7 +1487,7 @@ html {
 
     .footer {
         height: 17.28%;
-        background: url(/danyn7-JSFE2023Q1/shelter/assets/img/footer-background320.jpg), radial-gradient(100% 215.42% at 0% 0%, #5B483A 0%, #262425 100%);
+        background: url(assets/img/footer-background320.jpg), radial-gradient(100% 215.42% at 0% 0%, #5B483A 0%, #262425 100%);
     }
 
     .footer__container {

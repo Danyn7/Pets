@@ -1,12 +1,12 @@
 
 @font-face {
     font-family: 'Arial';
-    src: url(/danyn7-JSFE2023Q1/shelter/assets/fonts/arial/arial-regular.ttf);
+    src: url(assets/fonts/arial/arial-regular.ttf);
 }
 
 @font-face {
     font-family: 'Georgia';
-    src: url(/danyn7-JSFE2023Q1/shelter/assets/fonts/georgia/georgia-regular.ttf);
+    src: url(assets/fonts/georgia/georgia-regular.ttf);
 }
 
 
@@ -126,7 +126,7 @@ body {
     height: 350px;
     display: flex;
     background-color: radial-gradient(110.67% 538.64% at 5.73% 50%, #513D2F 0%, #1A1A1C 100%), #211F20;
-    background-image: url(/danyn7-JSFE2023Q1/shelter/assets/img/footer-background.jpg);
+    background-image: url(assets/img/footer-background.jpg);
     align-items: center;
     justify-content: center;
     margin-top: 30px;
@@ -639,7 +639,7 @@ html {
 
         .footer {
             height: 639px;
-            background: url(/danyn7-JSFE2023Q1/shelter/assets/img/footer-background768our.jpg);
+            background: url(assets/img/footer-background768our.jpg);
         }
 
         .footer__container {
@@ -827,7 +827,7 @@ html {
 
         .footer {
             height: 809px;
-            background: url(/danyn7-JSFE2023Q1/shelter/assets/img/footer-background320.jpg), radial-gradient(100% 215.42% at 0% 0%, #5B483A 0%, #262425 100%);
+            background: url(assets/img/footer-background320.jpg), radial-gradient(100% 215.42% at 0% 0%, #5B483A 0%, #262425 100%);
         }
     
         .footer__container {
